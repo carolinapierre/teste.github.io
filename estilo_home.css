@@ -1,0 +1,202 @@
+/* ----- FONTES ------
+font-family: 'Amatic SC', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Cedarville Cursive', cursive;
+}
+*/
+
+
+
+
+header {
+	background-attachment: relative;
+	background-image: url("./imagens/opção-logo-2.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 1080px;
+	width: 1920px;
+}
+
+/* --- MENU ----- */
+
+
+
+.navbar-text li{
+	color: #fff;
+	display: inline-block;
+	float: right;
+	font-family: 'Amatic SC', cursive;
+	font-size: 32px;
+	margin: 10px 5px;
+	position: relative;
+	list-style: none;
+	letter-spacing: 4px;
+
+}
+
+.navbar-text a{
+	color: #fff;
+}
+
+ #fixo {
+ 	background-color: #4C265E;
+ 	padding: 3px;
+ }
+
+ .navbar-text a:hover{
+ 	background-color: #dd99ff;
+	text-decoration: none;
+	padding: 3px;
+ }
+
+/* ---- BOTÃO INICIAR ---- */ 
+
+.iniciar a{
+	color: #fff;
+	font-size: 60px;
+	font-family: 'Allura', cursive;
+	list-style: none;
+
+}
+
+
+/* ------ PARTE UM ------ */ 
+
+.article-1 {
+	background-attachment: relative;
+	background-color: #161515;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.article-1 h3 {
+	color: #fff;
+	font-family: 'Allura', cursive;
+	font-size: 4rem;
+}
+
+.ler-mais {
+	background-color: #4C265E;
+	border: none;
+}
+
+.ler-mais:hover {
+	background-color: #dd99ff;
+	border: none;
+}
+
+
+/* ----- PARTE DOIS ------- */
+
+.article-2 {
+	background-attachment: relative;
+	background-color: #fff;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.article-2 h3 {
+	color: #161515;
+	font-family: 'Allura', cursive;
+	font-size: 4rem;
+
+}
+
+
+
+
+/* ------ PARTE TRES ------ */ 
+
+
+
+.article-3 {
+	background-attachment: fixed;
+	background-color: #161515;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.article-3 h3 {
+	color: #fff;
+	font-family: 'Allura', cursive;
+	font-size: 4rem;
+
+}
+
+
+.smooth-scroll h3 {
+	position: center;
+	top: 110%;
+}
+
+.modal-body p, em{
+	color: #000;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.modal-title {
+	color: #000;
+	font-family: 'Allura', cursive;
+	font-size: 3rem;
+	margin-top: 3rem;
+}
+
+
+
+footer {
+	background-attachment: fixed;
+	background-image: url("./imagens/loop.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 1080px;
+	opacity: 0.98;
+
+
+}
+
+figure {
+	position: relative;
+	margin-left: 680px;
+}
+
+
+
+
+/* MEDIA QUERIES */
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

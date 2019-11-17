@@ -1,0 +1,163 @@
+/* ----- FONTES ------
+font-family: 'Amatic SC', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Cedarville Cursive', cursive;
+
+}
+*/
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+header {
+
+	background-color: #161515;	
+	background-position: center;
+	background-size: cover;
+
+}
+
+
+.navbar-text li{
+	color: #fff;
+	display: inline-block;
+	float: right;
+	font-family: 'Amatic SC', cursive;
+	font-size: 32px;
+	margin: 10px 5px;
+	position: relative;
+	list-style: none;
+	letter-spacing: 4px;
+
+}
+
+.navbar-text a{
+	color: #fff;
+}
+
+ #fixo {
+ 	background-color: #4C265E;
+ 	padding: 3px;
+ }
+
+ .navbar-text a:hover{
+ 	background-color: #dd99ff;
+	text-decoration: none;
+	padding: 3px;
+ }
+
+
+/* JOANA */
+
+
+.article-1 {
+	background-color: #161515
+
+}
+
+.article-1 p,em{
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.article-1 h2{
+	color: #fff;
+	font-family: 'Allura', cursive;
+	font-size: 4rem
+}
+
+
+/* KAIQUE */
+
+.article-2 {
+	background-color: #161515
+
+}
+
+.article-2 p,em{
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.article-2 h2{
+	color: #fff;
+	font-family: 'Allura', cursive;
+	font-size: 4rem
+}
+
+
+
+/* BIANCA */
+
+.article-3 {
+	background-color: #161515;
+
+}
+
+.article-3 ,p,em{
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.article-3 h2{
+	color: #fff;
+	font-family: 'Allura', cursive;
+	font-size: 4rem
+}
+
+/* LEO */
+
+
+
+.article-4 {
+	background-color: #161515
+
+}
+
+.article-4 p,em{
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.article-4 h2{
+	color: #fff;
+	font-family: 'Allura', cursive;
+	font-size: 4rem
+}
+
+footer {
+
+	background-attachment: fixed;
+	background-image: url("./imagens/capa-personagens.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* MEDIA QUERIES */
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+
+}
